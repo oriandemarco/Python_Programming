@@ -1,0 +1,40 @@
+FUNDOFPYTH - Password is not accepted.
+Password has to be at least 12 characters long 
+Password has to have at least 2 lower case characters. 
+Password has to have 2 upper case characters. 
+Password has to have 2 digits. 
+Password should have at least 2 special characters. 
+Password should not contain the first or second letter of your first name. 
+
+FundofPyth - Password is not accepted.
+Password has to be at least 12 characters long 
+Password has to have 2 digits. 
+Password should have at least 2 special characters. 
+
+Fd88Pyth!! - Password is not accepted.
+Password has to be at least 12 characters long 
+
+fundpython!@#d12 - Password is not accepted.
+Password has to have 2 upper case characters. 
+
+fundpython123 - Password is not accepted.
+Password has to have 2 upper case characters. 
+Password has to have 2 digits. 
+Password should have at least 2 special characters. 
+
+FunDOfPyth12$% - Password is not accepted.
+Password has to have 2 upper case characters. 
+Password should not contain the first or second letter of your first name. 
+
+#$%!fundPyThoN23 - Password is not accepted.
+Password has to have 2 upper case characters. 
+
+FfundPythoNn1!s$o0 - Password is not accepted.
+Password has to have 2 upper case characters. 
+
+juv776f - Password is not accepted.
+Password has to be at least 12 characters long 
+Password has to have 2 upper case characters. 
+Password has to have 2 digits. 
+Password should have at least 2 special characters. 
+
